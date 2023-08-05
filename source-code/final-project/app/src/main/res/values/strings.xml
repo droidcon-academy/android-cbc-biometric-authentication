@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biometric Authentication</string>
+
+    <string name="error_biometric_enrollment_cancelled">Biometric enrollment cancelled.</string>
+    <string name="error_biometric_not_available">Biometric authentication is not available due to a hardware issue.</string>
+    <string name="biometric_authentication_successful">Biometric authentication successful.</string>
+    <string name="error_biometric_prompt_cancelled">Biometric authentication prompt cancelled.</string>
+    <string name="error_biometric_authentication_too_many_attempts">Too many attempts Please try again later.</string>
+
+</resources>
